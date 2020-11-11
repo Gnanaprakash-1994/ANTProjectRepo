@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88152" started-at="2020-11-11T09:51:54Z" finished-at="2020-11-11T09:53:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88152" started-at="2020-11-11T09:51:54Z" finished-at="2020-11-11T09:53:22Z">
+      <class name="packOne.ClassFour">
+        <test-method status="PASS" signature="methodFourA()[pri:0, instance:packOne.ClassFour@1abe2cd]" name="methodFourA" duration-ms="21271" started-at="2020-11-11T09:53:01Z" finished-at="2020-11-11T09:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodFourA -->
+      </class> <!-- packOne.ClassFour -->
+      <class name="packOne.ClassOne">
+        <test-method status="PASS" signature="methodOneA()[pri:0, instance:packOne.ClassOne@629d6e]" name="methodOneA" duration-ms="36878" started-at="2020-11-11T09:51:54Z" finished-at="2020-11-11T09:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOneA -->
+      </class> <!-- packOne.ClassOne -->
+      <class name="packOne.ClassThree">
+        <test-method status="PASS" signature="methodThreeA()[pri:0, instance:packOne.ClassThree@1102e87]" name="methodThreeA" duration-ms="18020" started-at="2020-11-11T09:52:43Z" finished-at="2020-11-11T09:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodThreeA -->
+      </class> <!-- packOne.ClassThree -->
+      <class name="packOne.ClassTwo">
+        <test-method status="PASS" signature="methodTwoA()[pri:0, instance:packOne.ClassTwo@cddf8f]" name="methodTwoA" duration-ms="11816" started-at="2020-11-11T09:52:31Z" finished-at="2020-11-11T09:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoA -->
+        <test-method status="PASS" signature="methodTwoB()[pri:0, instance:packOne.ClassTwo@cddf8f]" name="methodTwoB" duration-ms="1" started-at="2020-11-11T09:52:43Z" finished-at="2020-11-11T09:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoB -->
+      </class> <!-- packOne.ClassTwo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
